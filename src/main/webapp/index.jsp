@@ -134,6 +134,15 @@
       <div>
       </div>
     </div>
+   
+    <div id="footer">
+  <div class="container">
+    <p class="text-muted">This Bootstrap Example courtesy </p>
+  </div>
+</div>
+    
+    
+    
     
  
     
