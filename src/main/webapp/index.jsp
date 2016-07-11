@@ -137,7 +137,7 @@
    
     <div id="footer">
   <div class="container">
-    <p class="text-muted">This Bootstrap Example courtesy </p>
+    <p class="text-muted">This is a bootstrap footer </p>
   </div>
 </div>
     

@@ -5919,6 +5919,18 @@ a.badge:hover {
 /* Custom page CSS
 -------------------------------------------------- */
 
+html, body {
+  height: 100%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}
+
+
+
+
 #wrap > .container {
   padding: 60px 15px 0;
 }
